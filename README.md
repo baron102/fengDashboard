@@ -1,14 +1,7 @@
-# Email Dashboard
+# Feng Dashboard
 
 This service helps you to manage notifications that you are sending to your users. It's an amazing tool to manage your outgoing emails from your apps.
 
-![](https://github.com/Email-Dashboard/Email-Dashboard/blob/master/docs/assets/intro.gif?raw=true)
-
-## Demo & Docs
-
-Demo: https://dashboard.pigon.ws
-
-Docs: https://email-dashboard.readthedocs.io/en/latest
 
 ## Code Overview
 * The REST API builded with superfast language [golang](https://github.com/golang/go).
